@@ -1,0 +1,51 @@
+Player|Pass | Speed | Shoot | Dribble | Teamwork | Defence |
+|----------------------|------|-------|-------|---------|----------|---------|
+Messi          ,93,87,90,94,97,65
+Ronaldo        ,90,88,93,94,89,70
+Neymar         ,92,85,90,99,91,60
+Haaland        ,85,97,93,86,89,68
+Mbappe         ,88,98,93,90,87,66
+Kane           ,88,88,93,88,93,64
+Bellingham     ,90,84,87,89,94,78
+Kevin De Bruyne,97,85,87,92,94,75
+Valverde       ,93,87,88,88,92,82
+Kroos          ,94,83,90,88,94,76
+Lewandowski    ,85,85,93,86,92,62
+Gavi           ,89,82,83,90,93,79
+Pedri          ,91,84,84,91,92,77
+Rodri          ,87,78,80,85,90,88
+Casemiro       ,86,75,85,83,89,92
+Van Dijk       ,75,78,72,78,85,95
+Ruben Dias     ,80,80,74,76,84,94
+Joao Cancelo   ,88,86,82,88,87,80
+Alphonso Davies,83,95,78,91,85,78
+Kimmich        ,92,78,84,85,94,86
+Bernardo Silva ,94,85,85,90,91,70
+Saka           ,90,87,88,92,90,74
+Griezmann      ,89,84,86,87,93,68
+Modric         ,95,80,85,88,95,75
+Bruno Fernandes,92,82,89,86,91,72
+Gundogan       ,89,78,85,83,90,70
+Thomas Partey  ,82,79,82,80,85,89
+Declan Rice    ,80,76,80,78,86,91
+Trippier       ,88,75,80,81,90,84
+Reece James    ,83,85,78,82,85,87
+Alexander-Arnol,95,80,81,83,92,70
+Robertson      ,85,83,75,80,88,85
+Marquinhos     ,80,75,70,72,82,93
+Thiago Silva   ,78,70,68,68,84,92
+Alaba          ,85,80,75,78,85,90
+Dani Carvajal  ,82,82,73,75,83,85
+Manuel Akanji  ,78,78,70,70,80,88
+Raphael Varane ,75,77,68,68,82,90
+Aurelien Tchouameni ,80,78,75,78,85,90
+Federico Chiesa ,83,88,85,90,80,66
+Lautaro Martinez,80,85,90,85,84,68
+Di Maria     ,87,83,85,90,85,65
+Paulo Dybala ,88,84,85,92,84,60
+Giroud       ,75,72,87,75,85,68
+Osimhen      ,78,89,88,84,82,65
+Foden        ,89,88,85,91,86,68
+Rashford     ,82,91,90,88,83,60
+Dembele      ,80,93,85,94,80,55
+Vini Jr.     ,85,95,87,96,83,58
